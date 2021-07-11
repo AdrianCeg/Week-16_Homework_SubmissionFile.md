@@ -51,6 +51,8 @@ Apache Tomcat/Coyote JSP engine1.1
 
 Is Altoro Mutual vulnerable to XSS: YES
 
+![image](https://github.com/AdrianCeg/Week-16_Homework_SubmissionFile.md/blob/main/Pen-Test.png)
+
 
 
 ### Step 5: Zenmap
